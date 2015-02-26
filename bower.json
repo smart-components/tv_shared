@@ -1,0 +1,16 @@
+{
+  "name": "tv_shared",
+  "version": "0.0.0",
+  "homepage": "https://github.com/smart-components/tv_shared",
+  "license": "MPL",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "examples",
+    "LICENSE",
+    "README.md"
+  ]
+}
